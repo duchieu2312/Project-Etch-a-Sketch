@@ -1,0 +1,30 @@
+body {
+  height: 100vh;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+.createNewGrid,.resetGrid {
+  height: 50px;
+  width: auto;
+  font-size: larger;
+  font-weight: bolder;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square {
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  background-color: white;
+}
