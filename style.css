@@ -5,8 +5,10 @@ body {
   flex-direction: column;
   align-content: center;
   align-items: center;
+  gap: 10px;
   padding: 0;
   margin: 0;
+  background-color: aliceblue;
 }
 
 .createNewGrid,.resetGrid {
@@ -14,8 +16,16 @@ body {
   width: auto;
   font-size: larger;
   font-weight: bolder;
-  background-color: white;
   border-radius: 20px;
+  margin: 5px;
+}
+
+.createNewGrid {
+  background-color:antiquewhite;
+}
+
+.resetGrid {
+  background-color:coral;
 }
 
 .container {
