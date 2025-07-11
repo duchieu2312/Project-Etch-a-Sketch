@@ -1,6 +1,6 @@
 # 🖌️ Etch-a-Sketch Project
 
-This is a browser-based drawing grid built with **HTML**, **CSS**, and **JavaScript**. Inspired by the classic Etch-a-Sketch toy, this project allows users to draw by simply hovering over grid squares. The grid is dynamically generated and supports multiple customization options.
+This is a browser-based drawing grid built with **HTML**, **CSS**, and **JavaScript**. Inspired by the classic Etch-a-Sketch toy, this project allows users to draw by simply hovering over grid squares. The grid is dynamically generated and ready to draw.
 
 ## 🚀 Features
 
